@@ -1,8 +1,9 @@
 
 [NUESTRA-HISTORIA](./NUESTRA-HISTORIA.md)| [ITINERARIO](./ITINERARIO.md) | [LUGAR-Y-FECHA](./LUGAR-Y-FECHA.md)  | [MESA-DE-REGALOS](./MESA-DE-REGALOS.md)  | [PADRINOS](./PADRINOS.md) | [CONTACTO](./CONTACTO.md)
 - - -
-# Your Website Title
-title: Boda-Boook 💍
+layout: default
+title: Boda-Book 💍
+permalink: projects/boda.html
 
 # Your Website URL
 url: ' https://nuestra-boda.github.io/
