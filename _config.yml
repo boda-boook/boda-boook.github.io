@@ -1,5 +1,6 @@
-
 [NUESTRA-HISTORIA](./NUESTRA-HISTORIA.md)| [ITINERARIO](./ITINERARIO.md) | [LUGAR-Y-FECHA](./LUGAR-Y-FECHA.md)  | [MESA-DE-REGALOS](./MESA-DE-REGALOS.md)  | [PADRINOS](./PADRINOS.md) | [CONTACTO](./CONTACTO.md)
+
+boda-boook.github.io
 - - -
 layout: default
 title: Boda-Book 💍
@@ -13,17 +14,16 @@ ga_index: UA-XXXXXXXX-X
 ga_cv: UA-XXXXXXXX-X
 
 # Index page and Profile Information
-name: Nuestra Boda💍
+name: Boda-Book💍
 tagline: "SI NO RECUERDAS LA LOCURA EN LA QUE EL AMOR TE HIZO CAER ES QUE NO HAS AMADO" ❤
 pic: profile.png # profile.png can be found at /assets/images/profile.png
 [![image](https://user-images.githubusercontent.com/99773679/158043763-6a9ce710-8d49-4083-8780-e7eedf36b466.png)]
 description: ENCUENTRA INFORMACIÓN SOBRE EL GRAN DÍA 
 description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
-email: you.email.email@gmail.com
-website: melvinchng.github.io # do not add http://
-linkedin: realmelvinchng
-github: melvinchng
-twitter: '@realmelvinchng'
+email: nuestraboda56@gmail.com
+website: https://boda-boook.github.io/
+github: Boda-book
+twitter: '@nuestraboda56'
 
 # Files or folders to be excluded
 exclude: [gitbook_source_code/]
